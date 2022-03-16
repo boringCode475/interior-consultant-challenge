@@ -1,0 +1,53 @@
+-mobile
+*navigation (logo)
+    font-family: Crimson Pro
+    font-weight: 200, xtra light
+    font-size: 14px
+    border-width: 103px
+    border-height: 31px
+    border: 1px solid #fff
+
+*navigation menu
+    font-size: 700, bold
+    font-family: montserrat
+    font-size: 18px
+    :hover
+    border-bottom: 2px solid #fff
+
+*hero-heading
+    font-family: Lora
+    font-weight: 500, medium
+    font-size: 36px
+
+*hero-para
+    font-family: montserrat
+    font-weight: 400, regular
+    font-size: 14px
+    line-height: 17.07px
+    
+*hero-link
+    font-family: montserrat
+    font-weight: 700, bold
+    font-size: 14px
+
+*hero-img
+    width: 351px
+    height: 264.32px
+
+*hero-interior-designer
+    width: 300px
+    height: 138px
+    *name
+    font-family: montserrat
+    font-weight: 500, normal
+    font-size: 12px
+    *position(occupation)
+    font-family: montserrat
+    font-weight: 500
+    font-size: 10px
+    *comment
+    font-family: Lora
+    font-weight: 700, bold
+    font-size: 18px
+    line-height: 23.04px
+
